@@ -2,7 +2,7 @@
  
 Task 1 of the CodeAlpha Python Programming Internship: a text-based Hangman game.
  
-## Features:
+## Features 🧩
 - Random word chosen from 5 predefined words
 - 6 incorrect guesses allowed ❌, with ASCII hangman drawing
 - Input validation (single letters only, no repeated guesses)
@@ -13,5 +13,5 @@ Task 1 of the CodeAlpha Python Programming Internship: a text-based Hangman game
 python hangman.py
 ```
  
-## Concepts used 🧑‍💻
+## Concepts used 🧱
 `random`, `while` loops, `if-else`, strings, lists, functions
