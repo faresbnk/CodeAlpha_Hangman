@@ -1,10 +1,3 @@
-"""
-CodeAlpha Python Internship - Task 1: Hangman Game
-A simple text-based Hangman game.
-
-Concepts used: random, while loop, if-else, strings, lists.
-"""
-
 import random
 
 WORDS = ["python", "hangman", "developer", "internship", "keyboard"]
